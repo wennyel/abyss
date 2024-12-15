@@ -1,0 +1,10 @@
+<hashlist>
+  <File>
+      <Path>GO.dll</Path>
+      <Hash>05b4ed82feac056c08034dba4d970da8</Hash>
+  </File>
+  <File>
+      <Path>ip.dll</Path>
+      <Hash>01ba47c156d394907ba30adc3b30403f</Hash>
+  </File>
+</hashlist>

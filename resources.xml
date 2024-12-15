@@ -1,0 +1,114 @@
+  <RemoteSettings>
+      <Settings>
+          <Maintenance>false</Maintenance>
+          <CabalHash>75741667a9cc458cf7929a10ac5f03d5</CabalHash>
+          <UpdateHash>f1271f8981682feb7bd56209afc6ca82</UpdateHash>
+          <UpdateVersion>1.0.0</UpdateVersion>
+          <UpdateRevision>6</UpdateRevision>
+          <CabalMainHash>264d1497e1d256250dd502123fcb5c51</CabalMainHash>
+          <CabalMainBuild>374</CabalMainBuild>
+          <CabalMainConstructor>8TmWGNMFcX4lQKj13PONDMZJdurfr+u3XXxtmVWO3fM=</CabalMainConstructor>
+      </Settings>
+      <Hashes count="99">
+          <Hash file="Cabal.dll">0cdcce3a7d2ba3b10f548992dd2d147a</Hash>
+          <Hash file="CabalMain.exe">264d1497e1d256250dd502123fcb5c51</Hash>
+          <Hash file="Data\Language\English\@Connect\IP.enc">84c3f8178eeb89ea3664e1504d8a4418</Hash>
+          <Hash file="Data\Language\English\achievement_msg.enc">f9a09bfc32208de652cff34b4e37f5e4</Hash>
+          <Hash file="Data\Language\English\cabal_msg.enc">c5896bd80abde20f1a403873a7147daf</Hash>
+          <Hash file="Data\Language\English\caz_msg.enc">d24edb636db07e7cd8f64c3ea1faa26e</Hash>
+          <Hash file="Data\Language\English\cont2_msg.enc">af0667da1ce0731637f455190b439d40</Hash>
+          <Hash file="Data\Language\English\cont_msg.enc">0553225f3af7dae4ba99c0ff44da0b68</Hash>
+          <Hash file="Data\Language\English\craft_msg.enc">1e1004604801ed0b0637335135bd5f79</Hash>
+          <Hash file="Data\Language\English\extra_obj.enc">6fc72680d3f80a05cd443ff65e649cd1</Hash>
+          <Hash file="Data\Language\English\extra_obj_msg.enc">a89d5840e5ab3854b4a962dc893f8e5d</Hash>
+          <Hash file="Data\Language\English\help.enc">cdd687ad6c053aee9f209221ab741399</Hash>
+          <Hash file="Data\Language\English\keymap_msg.enc">2a0b96d8c847df019f2331522376ae08</Hash>
+          <Hash file="Data\Language\English\klog.enc">0dd527d9733077d5111e5e985145b234</Hash>
+          <Hash file="Data\Language\English\language.enc">84c3f8178eeb89ea3664e1504d8a4418</Hash>
+          <Hash file="Data\Language\English\language.encon">2de63174d29ef09d37d1cc5813ec55dc</Hash>
+          <Hash file="Data\Language\English\meritsystem_msg.enc">d266686e0f3e0f336710e87daa4fbae2</Hash>
+          <Hash file="Data\Language\English\missionbattle_msg.enc">4b700a8044ae4c2dac7642a073673f2f</Hash>
+          <Hash file="Data\Language\English\msg.enc">d8e231384a84134d9419232fa71a8a2a</Hash>
+          <Hash file="Data\Language\English\script.enc">ad47c9b023baf6fb3c3f3b77fc0a087b</Hash>
+          <Hash file="Data\Language\English\script_msg.enc">a1c894d15ab7de3ace0cd59eda7f7f09</Hash>
+          <Hash file="Data\Language\English\seteffect_msg.enc">27ee74baf325a0db194dbc6200734d33</Hash>
+          <Hash file="Data\Language\English\tip.cbl">b890a7073be35be1328c0b63c45cd70d</Hash>
+          <Hash file="Data\Language\English\tip.enc">f29bc04801f41e72ae1c447b98f23145</Hash>
+          <Hash file="Data\Language\English\ui.dts">2d68d5af341bcb318b7362025dc58d8e</Hash>
+          <Hash file="Data\VTMDevs\Macro\Bg\bg_algoz.png">d01d2b0d6b0404036dfb26356ebef605</Hash>
+          <Hash file="Data\VTMDevs\Macro\Bg\bg_ceifador.png">65d0ae2e76fe78b57b04b1ea58fd79e8</Hash>
+          <Hash file="Data\VTMDevs\Macro\Bg\bg_manipulador.png">6d6cc8633991a7b734cebaa2516ea59c</Hash>
+          <Hash file="Data\VTMDevs\Macro\Bg\bg_mini.png">9237a5d8a36d51912d57088a35364b25</Hash>
+          <Hash file="Data\VTMDevs\Macro\Bg\bg_vingador.png">c0d05cb7dcb1759adba1ba4de9d06c56</Hash>
+          <Hash file="Data\VTMDevs\Macro\Buttons\ButtonOn.png">9137fdddbdaa38371aa812881c414754</Hash>
+          <Hash file="Data\VTMDevs\Macro\Buttons\Maximize.png">066b14f5f1ef52777c7aeb9d048b0cad</Hash>
+          <Hash file="Data\VTMDevs\Macro\Buttons\Minimize.png">0f528ecadeddccab9b9658242ffbff1f</Hash>
+          <Hash file="Data\VTMDevs\PA&amp;PD\Bg.png">d9ce5191dfd263bb6bb7cc5a3bd783d6</Hash>
+          <Hash file="Data\ability.enc">ed7778d8beebb9b9240bd997754475a7</Hash>
+          <Hash file="Data\achievement.enc">43dfee7ef73da2c1b4af3124730e8db1</Hash>
+          <Hash file="Data\assistant.enc">a852964a4aa59a51b2ed98c16a06af0c</Hash>
+          <Hash file="Data\cabal.enc">d4b4b51ce9cdd3845d320cad76332625</Hash>
+          <Hash file="Data\caz.enc">30b6b0c8b64f67da4d4aa414d5f88981</Hash>
+          <Hash file="Data\caz_msg.enc">1ed7a5238b37719472f6a25e95980044</Hash>
+          <Hash file="Data\change_shape.enc">0c02bbb25fb846a2cd366530524f54f3</Hash>
+          <Hash file="Data\chaos_upgrade.enc">1c98ac0e258792f0edb3656e7ca057d8</Hash>
+          <Hash file="Data\cont.enc">2a649e2a8864e2c1eca543b899ccedd4</Hash>
+          <Hash file="Data\cont2.enc">1369448484c94d85f5f9a69912ea4e25</Hash>
+          <Hash file="Data\cont2_msg.enc">4ea48d7cab3ad97397aa1da393fa7021</Hash>
+          <Hash file="Data\cont_msg.enc">e28c987c94cfb026ce7f7f04db0a7ab7</Hash>
+          <Hash file="Data\craft.enc">b986219edf4fefc01f3990fb895403f6</Hash>
+          <Hash file="Data\data.enc">4d5f64ff0fcbf69db4853f319c967150</Hash>
+          <Hash file="Data\destroy.enc">955196ae95add5fea62b1b8ba17d28a2</Hash>
+          <Hash file="Data\dl.enc">301db5b8f952f3a676edf3c99db2bb96</Hash>
+          <Hash file="Data\effecter.enc">58c1a130864aafa9af2362d970cb2208</Hash>
+          <Hash file="Data\extra_obj.enc">6fc72680d3f80a05cd443ff65e649cd1</Hash>
+          <Hash file="Data\fieldwar.enc">8a87f981bf510e4df3a36b69f0590e64</Hash>
+          <Hash file="Data\fxdata.enc">52bcdea92da941e0233f15b218e6afdb</Hash>
+          <Hash file="Data\global.enc">8715ed9eab4c48a2a0e0fcfde5459546</Hash>
+          <Hash file="Data\guide.enc">e7f90d55460b3bc366a616539c18924a</Hash>
+          <Hash file="Data\help.enc">cdd687ad6c053aee9f209221ab741399</Hash>
+          <Hash file="Data\item.enc">8ca3a43ffca464dec614d96b76d01066</Hash>
+          <Hash file="Data\item2.enc">a6df715c3e0fd41e84782979acf5e1c0</Hash>
+          <Hash file="Data\item3.enc">10714556a53bd5564995fa5220a1c485</Hash>
+          <Hash file="Data\item4.enc">a6f83d1959a65e6564b865986cfb330a</Hash>
+          <Hash file="Data\keymap.enc">cf7920f338d0c5366c72a66fbd865cd8</Hash>
+          <Hash file="Data\klog.enc">0dd527d9733077d5111e5e985145b234</Hash>
+          <Hash file="Data\limit_upgrade.enc">beddb8fa47dabfd7457dd910bdd09559</Hash>
+          <Hash file="Data\mapinfo.enc">13e36c0e31b02c006b5da5742bd01fc7</Hash>
+          <Hash file="Data\market.enc">0c633daceec54cc62199e137eef695f9</Hash>
+          <Hash file="Data\maze.enc">f45ddc0fb4cafdf06680b3034e6b7bcd</Hash>
+          <Hash file="Data\meister.enc">82e524d69692d0fe5100f764b9f4e582</Hash>
+          <Hash file="Data\meritsystem.enc">259f13b585837eb51a7bf62dce7eecbc</Hash>
+          <Hash file="Data\missionbattle.enc">f00e6534e479c28ed6c910e61d22b1eb</Hash>
+          <Hash file="Data\mob.enc">a0ac6631c70385b8c3f9590a24530a63</Hash>
+          <Hash file="Data\mobEx.enc">574817ba7ac8d43d84f3a8fd4ec03e38</Hash>
+          <Hash file="Data\msg.enc">7affdf8788296c2185056e6c3a9fe302</Hash>
+          <Hash file="Data\quest.enc">c2ba35a7270e00faa8d1d5b95d380c4e</Hash>
+          <Hash file="Data\rank.enc">198a57af5fdd0490a6c84ed7e79cac45</Hash>
+          <Hash file="Data\request.enc">f3cacc5be8115002694f52f80f3c1fe1</Hash>
+          <Hash file="Data\seteffect.enc">49a7083470f8e22f51628765e60c5701</Hash>
+          <Hash file="Data\skill.enc">a2276c9cd456bff70b385ca064454886</Hash>
+          <Hash file="Data\smob.enc">1c11f12e0e28765a82638aaa0a669576</Hash>
+          <Hash file="Data\title.enc">59484baa5e4facd40ee9ed02821c05d4</Hash>
+          <Hash file="Data\ui.dat">b282244b37d5b61f9a3edc97d242b57d</Hash>
+          <Hash file="Data\ui.dts">3bf066436f20219b24019740dab2c83b</Hash>
+          <Hash file="Data\usersetting.dat">5ae645db575ea4a8d67533f1c52d93e0</Hash>
+          <Hash file="Data1.dll">a967824447839999b3979f1d2da11c48</Hash>
+          <Hash file="New.dll">1e47cbbefd0b437b251257a7ea928c23</Hash>
+          <Hash file="Tr007.bin">eb733c6e73facf1a6f217b68d9ef6e64</Hash>
+          <Hash file="aqrit.cfg">538b4ebbc767df598321bacd10420339</Hash>
+          <Hash file="crash_reporter.bin">dd1623f4b4ebfd1dd583e592c42f7da6</Hash>
+          <Hash file="d3dx9_30.dll">c3a32900e5012549dad19d8327bcdfef</Hash>
+          <Hash file="d3dx9_43.dll">86e39e9161c3d930d93822f1563c280d</Hash>
+          <Hash file="data.dat">ad8087cb61736f36ea3682a16f9a6cef</Hash>
+          <Hash file="ddraw.dll">a216b85632289b135487bb33721bafb7</Hash>
+          <Hash file="fmodex.dll">91e8e07d9e12bf6cca087342e0fddbba</Hash>
+          <Hash file="fmodexL.dll">a84b0c9ee4b1946421105a9314c5df78</Hash>
+          <Hash file="main.dat">a56acb63a7c55741525c0adc575dafd5</Hash>
+          <Hash file="mainex.dat">74cbca8d57c65ea1f6e92e18d2886376</Hash>
+          <Hash file="options.cfg">41146c6500d70eac2c2c0d4dbf18c36c</Hash>
+          <Hash file="setting.cfg">980f40cb1d4264d084e2de32d163e68d</Hash>
+          <Hash file="xdata.enc">85fb56a1694c93dfba4942dfb81d19c1</Hash>
+      </Hashes>
+      <Updates count="0"></Updates>
+  </RemoteSettings>
