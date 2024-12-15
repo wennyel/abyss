@@ -1,0 +1,2252 @@
+1@ OK
+2@ AUTENTICAÇÃO
+3@ Saída
+4@ OK
+5@ Salvar ID
+6@ Teclado leve
+7@ ID
+8@ Senha
+9@ LOGIN
+10@ Saída
+11@ OK
+12@ Salvar ID
+13@ Teclado leve
+14@ ID
+15@ Senha
+16@ LOGIN
+17@ Desconectado
+18@ OK
+19@ Salvar ID
+20@ Teclado leve
+21@ ID
+22@ Senha
+23@ Conectar
+24@ Nv.
+25@ Cancelar
+26@ Criar
+27@ Mulher
+28@ Homem
+29@ Nome
+30@ Sexo
+31@ Estilo de Luta
+32@ Aparência
+33@ Estilo de Cabelo
+34@ Cor de Cabelo
+35@ Rosto
+36@ Girar Tela
+37@ Criar Personagem
+38@ OK
+39@ OTP
+954@ OK
+955@ Challenge Code:
+956@ Dynamic Password
+40@ 2,9:6,71:3
+41@ Iniciar
+42@ Voltar
+43@ 0,2:6
+44@ Selecionar Personagem
+2039@ Criado em:
+2040@ Mapa Atual:
+45@ Selecione o Personagem
+61@ Cancelar
+62@ Conectar ao Servidor
+63@ 2,1:5
+64@ Selecione o Servidor
+65@ Convidar Membro
+66@ Direito de Convite
+67@ Regra de Coleta
+68@ Expulsar Membro
+69@ Delegar Liderança
+70@ Deixar grupo
+71@ Procurar grupo
+72@ Convidar Membro
+73@ Convidar Membro
+74@ Regra de Coleta
+75@ Procurar grupo
+76@ Deixar grupo
+77@ Registrar grupo
+78@ Abrir Recrutamento OFF
+79@ Somente para Líder
+80@ Todos os Membros
+81@ Procurar grupo
+82@ Abrir Recrutamento
+83@ Cancelar procura de grupo
+2653@ 0,73:5,73:5,75:1
+84@ HP
+85@ MP
+86@ SP
+87@ /
+88@ /
+89@ /
+90@ Mapa estratégico
+91@ Lista de Membros
+92@ Ordem para Entrar
+93@ INFO
+94@ 1,29:0,36:0,37:0,29:0
+95@ 1,0:0
+96@ 1,0:0
+97@ 1,0:0
+98@ 1,29:0,31:0,32:0,33:0,29:0
+99@ 1,29:0,30:0,31:0,32:0,29:0,33:0,29:0
+100@ 1,29:0,30:0,31:0,32:0,29:0,33:0,29:0
+101@ 1,0:0
+102@ 1,0:0
+103@ 1,0:0
+104@ 1,0:0
+105@ 1,0:0
+107@ Criar
+108@ 2, 66:10
+109@ 1,1:0
+2654@ 2, 74:5 
+2936@ Conquista de Rank
+2935@ Pequena Descrição
+2937@ Título
+2018@ 2,78:2
+2017@ 2,79:10
+2938@ Conquistas
+2939@ Categoria
+2940@ Detalhes
+2941@ Conquistas
+2949@ Pequena Descrição
+2950@ Título
+2020@ 2,81:1
+2951@ Conquista de Rank
+2952@ Categoria
+2953@ Ranking
+2954@ Ranking
+2955@ Nível
+2956@ Personagem
+2957@ Guilda
+2958@ Pontos de Conquista
+2890@ Conquistas
+2918@ Conquista de Rank
+2889@ Título
+2888@ Ver mais
+2021@ 2,76:1
+2022@ 2,77:3
+2887@ Pequena Descrição
+2926@ Conquistas
+2927@ Ver todas Conquistas
+2928@ Pontos Total
+2929@ Alcançada
+2920@ Conquistas
+2921@ Conquista de Rank
+2922@ Pequena Descrição
+2023@ 2,81:3
+2923@ Título
+2924@ Título Obtido
+2925@ Título Registrado
+2932@ Título exibido
+2933@ Título com Habilidade
+2906@ Conquistas
+2916@ Fechar
+110@ Adicionar Amigo
+111@ Adicionar grupo
+112@ Bloqueados
+113@ Guilda
+114@ AMIGOS
+115@ Amigos
+116@ 2,7:10
+117@ Adicionar na Lista de Bloqueados
+118@ Amigos
+119@ Guilda
+120@ AMIGOS
+121@ Bloqueados
+122@ 2,7:10
+123@ Menu de Guilda
+124@ Amigos
+125@ Bloqueados
+126@ AMIGOS
+127@ 2,7:9
+128@ Mestre de Guilda
+129@ Data de Criação
+130@ Número de Membros
+131@ Placar de Guilda
+132@ Guilda
+133@ Cancelar
+134@ OK
+135@ Procedimento de Confirmação do Proprietário
+136@ Insira sua senha novamente.
+137@ Digite Senha
+144@ 0,63:26
+145@ Básico
+146@ Grau de Honra
+147@ WEXP
+148@ W.Rank
+149@ FOR
+150@ INT
+151@ DES
+152@ FOR
+153@ INT
+154@ DES
+155@ Ponto
+156@ Pontos de Honra
+157@ AP
+158@ (
+159@ )
+194@ PC
+160@ Ajuste Automático
+162@ PERSONAGEM
+163@ Criação de Item
+164@ Especialização
+165@ Material Necessário
+166@ Qtd.
+167@ Básico
+168@ Criação de Item
+169@ Geral
+170@ 2,20:10
+171@ Material Necessário
+172@ Qtd.
+173@ Especialização
+174@ CRIAÇÃO
+175@ Não
+176@ Sim
+177@ Excluir Personagem
+178@ Você decidiu excluir o personagem.
+179@ Os dados do personagem, incluíndo itens, serão apagados.
+180@ Tem certeza que deseja apagar o personagem?
+181@ Não
+182@ Sim
+183@ Remover Personagem
+184@ Você decidiu remover o personagem.
+185@ Tem certeza que deseja remover o personagem?
+186@ Por favor, lembre-se que será impossível recuperá-lo.
+187@ OK
+188@ Remoção de Personagem Completa
+189@ O personagem foi removido com sucesso.
+190@ A remoção do personagem foi finalizada.
+2054@ Local
+261@ PC Acumulados
+2053@ Info. de Calabouço
+2055@ Rank de Classe
+2056@ Fechar
+2622@ Dungeon Point
+2057@ Item de Entrada
+2058@ Nível Min.
+2059@ Núm. Máx.
+2060@ Calabouço
+2067@ Caçabouços Acessíveis
+2061@ 2, 68:10
+191@ 2,26:1,27:2,28:5
+2191@ Manutenção Periódica
+2198@ Outros Benefícios
+2193@ Infos Gerais
+2202@ Outros Benefícios
+2204@ Manutenção Periódica
+2203@ Infos Gerais
+2199@ Infos Gerais
+2200@ Manutenção Periódica
+2201@ Outros Benefícios
+192@ T-Point
+193@ Informação
+195@ Lista
+196@ AJUDA
+197@ 2,13:25
+201@ Pet
+254@ Alz
+202@ Equip.
+203@ INVENTÁRIO
+204@ Equip.
+205@ Pet
+206@ EXP
+209@ 0, 34:200
+1881@ Deletar todos
+2250@ Enviar E-mail
+2247@ Mostrar somento Não Lidos
+2347@ 2,38:10
+2249@ Mail
+2253@ Entrada
+2316@ Deletar todos
+2350@ 2,39:10
+2254@ Enviar E-mail
+106@ Categoria
+2252@ Lista
+2240@ Caixa de E-mail
+2246@ Escrever E-mail
+1883@ Convite da Guilda
+1884@ Escrever E-mail
+210@ PM
+211@ Convidar grupo
+212@ Solicitar Troca
+213@ Adicionar Amigo
+214@ Seguir
+215@ Solicitar PvP
+2024@ Ver Equipamento
+216@ Loja Pessoal
+217@ Jogar o dado
+218@ Dançar
+219@ Procurar por grupo
+220@ Cancelar LFB
+2497@ Não
+2498@ Sim
+2499@ Criar Personagem Especial
+2500@ Você gostaria de criar o Personagem Especial?
+2886@ Conquistas
+480@ Mercenário
+221@ Comunidade
+222@ Personagem
+2062@ Calabouço
+224@ Correspondência
+225@ Loja de Itens
+226@ Técnica
+262@ Inventário Especial
+227@ Aprimoramento de Item
+228@ Criar
+229@ Ajuda
+230@ Inventário
+231@ Habilidade de Alma
+232@ Jukebox
+233@ GPS
+234@ Menu do sistema
+235@ Missão
+236@ Amigos
+237@ Guilda
+238@ Comunidade da Guilda
+239@ Grupo
+2722@ Facebook
+240@ Twitter
+2723@ Upload to Web
+2724@ Página de SNS
+241@ Geral
+242@ Título
+243@ Normal
+244@ Especializado
+2065@ Sair do Calabouço
+2064@ Info. de Calabouço
+2063@ Pausar Calabouço
+245@ Essência
+246@ Supremo
+247@ Mágica
+248@ Espada
+249@ Especial
+250@ Aprimoramento
+455@ Funções para Deletar
+456@ Kit de Regressão de Pet
+457@ Cancelar
+458@ Deletar Funções
+2633@ Progresso
+2634@ Desistir
+2635@ Básico
+2636@ Cenário
+2637@ Ver novamente
+2638@ 0,5:10,5:10
+2639@ Geral
+2640@ Apagar
+2641@ Progresso
+2666@ Restaurar
+2642@ Cenário
+2643@ Ver novamente
+2645@ 2,72:4
+2646@ Cenário
+2647@ Progresso
+2648@ Geral
+2649@ Ver novamente
+2650@ 2,6:4
+2651@ Missão
+271@ Canal
+272@ Solicitar grupo
+273@ Membro
+274@ Registro de grupo
+275@ Cancelar Registro
+276@ Mensagem de recrutamento
+277@ Buscar grupo
+278@ Líder do grupo
+279@ 2, 53:16
+280@ PROCURAR GRUPO
+281@ Geral
+2810@ PS
+282@ Restaurar
+283@ LOJA
+284@ Restaurar
+285@ Restaurar
+286@ Restaurar
+287@ Restaurar
+288@ Restaurar
+289@ Restaurar
+290@ Restaurar
+291@ Restaurar
+292@ Restaurar
+293@ Restaurar
+294@ Geral
+2860@ Loja
+295@ Mágica
+296@ Aprimoramento
+297@ Especial
+298@ TÉCNICA
+299@ Grau de Espada
+300@ Requerimento
+301@ EXP de Espada
+302@ Ponto de Técnica de Espada
+303@ Slots de Espada (Em Uso / Total)
+304@ Espada
+305@ 2,3:5
+306@ Espada
+307@ Aprimoramento
+308@ Especial
+309@ TÉCNICA
+310@ Grau de Mágica
+311@ Requerimento
+312@ EXP Mágica
+313@ Ponto de Técnica de Mágica
+314@ Slots de Mágica (Em Uso / Total)
+315@ Mágica
+316@ 2,3:5
+317@ Espada
+318@ Mágica
+319@ Especial
+320@ TÉCNICA
+321@ Slots de Aprimoramento (Em Uso / Total)
+322@ Aprimoramento
+323@ 2,3:5
+324@ Espada
+325@ Mágica
+326@ Aprimoramento
+327@ TÉCNICA
+328@ Especial
+329@ 2,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:3,0:1,4:5,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:22
+330@ AP
+331@ Essência
+332@ Slot de Essência (Em Uso / Total)
+333@ HABILIDADE ALMA
+334@ 2,59:5
+335@ Supremo
+336@ Slot Supremo (Em Uso / Total)
+337@ Suprema
+338@ HABILIDADE ALMA
+339@ 2,60:3
+340@ Essência
+341@ Quant. 
+342@ Cancelar
+343@ OK
+344@ Pronto
+345@ TROCA
+346@ Pronto
+347@ Criar com Alzes
+348@ Criar com Pontos
+349@ 2,44:5
+350@ PAINEL DE CONTROLE
+351@ Garantir comando
+352@ Placar
+353@ Invite Party
+354@ 2,45:10
+355@ LISTA DE MEMBROS
+356@ Grupo
+357@ Encontrar meu personagem
+358@ Mostrar membros do grupo
+359@ Garantir comando
+360@ Invite Party
+361@ Grupo
+362@ 2,46:10
+363@ LISTA DE MEMBROS
+364@ Conceder Comando
+365@ Encontrar meu personagem
+2962@ Alz
+370@ ARMAZÉM
+161@ Armazém
+949@ Aprimoramento de Núcleo
+950@ Quant. 
+951@ Cancelar
+952@ OK
+2045@ Aprimoramento de Núcleo
+2046@ Quantidade Utilizada
+2047@ Cancelar
+2048@ OK
+379@ Aprimoramento de Item
+380@ Registro Automático
+381@ Item
+382@ Núcleo
+383@ Resultado
+223@ Alz
+384@ Aprimoramento de Item
+366@ Cancelar
+367@ OK
+369@ Inserir Senha
+368@ Sub-Senha
+46@ Cancelar
+47@ OK
+48@ Verificação de Senha
+49@ Inserir Senha
+50@ Sub-Senha
+388@ Cancelar
+389@ OK
+390@ Senha:
+391@ Verificar Senha
+445@ Sub-Senha
+51@ Crie Sub Senha
+52@ Crie Sub Senha
+53@ Mude Sub Senha
+54@ Mude Sub Senha
+55@ Remova Sub Senha
+56@ Remova Sub Senha
+57@ Alterar Pergunta/Resposta
+58@ Alterar Pergunta/Resposta
+59@ Estabelecer Sub Senha
+393@ OK
+394@ Novo Calabouço
+395@ Você pode entrar no novo calabouço
+396@ Por favor, fale com o NPC.
+405@ ARMAZÉM DA GUILDA
+406@ Organizar atual
+407@ Auto acumular itens
+2964@ Alz
+408@ Você pode verificar os 100 casos recentes.
+409@ Histórico do armazém
+410@ Ver Armazém
+411@ ARMAZÉM DA GUILDA
+412@ 2,62:100
+413@ Fechar
+414@ Receber Tudo
+415@ INVENTÁRIO TEMPORÁRIO
+416@ Por favor, retire o item do inventário temporário
+2108@ T-Point
+2102@ Loja T-Point
+417@ OK
+418@ Missão Completa
+419@ Você completou o objetivo da missão.
+420@ Por favor, fale com o NPC.
+421@ OK
+422@ Nova Missão
+423@ Uma nova missão está disponível.
+424@ Por favor fale com o NPC.
+425@ Discordo
+426@ Concordo
+427@ Concordo
+428@ CONTRATO
+429@ Busca
+430@ Busca
+431@ Registro
+2032@ Tipo de Item
+2031@ Tipo de Item
+432@ Preço
+433@ Preço
+434@ Nome
+435@ Nome
+436@ Qtd.
+437@ Qtd.
+438@ 2, 56:110
+439@ 2,54:15
+440@ Compra de Item
+441@ Tipo
+442@ Grau
+443@ Épico
+444@ Ordenar
+446@ Ação
+207@ Favoritos
+447@ Recarregar
+448@ Recarregar
+449@ Registro
+450@ Registro
+2970@ Nome
+2971@ Nome
+2972@ Preço
+2973@ Preço
+2969@ Qtd.
+2968@ Qtd.
+2975@ Status
+2974@ Status
+451@ Comprar
+452@ 1, 57:5
+453@ Registro
+454@ Registrar
+459@ Preço
+460@ Quant. 
+461@ (Preço x Quantidade)
+462@ Comissão (5%)
+463@ Ação
+464@ Venda
+465@ Vencido
+466@ Vendido
+467@ Quant. Total
+468@ Alz
+469@ Período
+470@ Preço Total
+471@ Alz
+472@ Alz
+473@ TROCA
+2344@ Fechar
+2331@ Deslumbramento
+2332@ Fé
+385@ 0,70:3
+2487@ 0,70:3
+2330@ Tratado
+2336@ Tratado
+2337@ Fé
+386@ 0,70:3
+2488@ 0,70:3
+2338@ Deslumbramento
+2339@ Tratado
+2340@ Deslumbramento
+387@ 0,70:3
+2489@ 0,70:3
+2341@ Fé
+2342@ Mercenário
+481@ Dispersar
+482@ Informação do Mercenário
+474@ Cancelar
+475@ OK
+476@ OK
+477@ Cancelar
+478@ OK
+479@ Nome do Amigo
+483@ Cancelar
+484@ OK
+485@ Convidar Membro
+486@ Cancelar
+487@ OK
+488@ Permissão Convite
+489@ Permissão para Expulsar
+490@ Criar Subgrupo
+491@ Nome do grupo
+492@ Permissões
+493@ Cancelar
+494@ OK
+495@ Nome do grupo
+2879@ Cancelar
+2880@ OK
+2881@ Mensagem do Personagem
+2882@ Editar a mensagem do personagem.
+2884@ Retirar da Lista de Bloqueados
+496@ Editar Mensagem
+497@ Mudar Info.
+498@ Apagar grupo
+499@ Apagar grupo
+500@ Apagar
+2026@ Ver Equipamento
+2303@ Escrever E-mail
+501@ Editar Mensagem
+502@ Invite Party
+503@ PM
+2885@ Editar mensagem
+504@ Convidar para Guilda
+505@ Apagar grupo
+506@ Mudar Propriedades
+507@ Invite Party
+508@ Confiar Liderança de Guilda
+509@ PM
+510@ Expulsar da Guilda
+2027@ Ver Equipamento
+2305@ Escrever E-mail
+511@ Expulsar da Guilda
+512@ Invite Party
+513@ PM
+2028@ Ver Equipamento
+2306@ Escrever E-mail
+514@ PM
+515@ Invite Party
+2029@ Ver Equipamento
+2307@ Escrever E-mail
+516@ Adicionar Amigo
+517@ Apagar grupo
+518@ Mudar Nome
+519@ Cancelar
+520@ OK
+521@ Apagar usuário bloqueado
+522@ O alvo será retirado da sua Lista de Bloqueados.
+523@ Quando o alvo for retirado, vocês poderão conversar.
+524@ Gostaria de retirar o alvo de sua Lista de Bloqueados?
+525@ Não
+526@ Sim
+527@ Apagar
+528@ O usuário será excluído da sua Lista de Amigos.
+529@ Deseja excluir este usuário da sua Lista de Amigos?
+530@ Não
+531@ Sim
+532@ Desfazer Guilda
+533@ A Guilda será desfeita.
+534@ Você só pode encerrar a guilda depois de expulsar todos os membros.
+535@ Tem certeza que deseja desfazer sua Guilda?
+536@ Não
+537@ Sim
+538@ Apagar grupo de Guilda
+539@ O grupo de Guilda será apagado.
+540@ Os membros do grupo
+541@ serão transferido para o grupo normal
+542@ Gostaria de apagar o grupo de Guilda da sua lista de guilda?
+543@ Não
+544@ Sim
+545@ Apagar o grupo de Amigos
+546@ O grupo de Amigos será excluído.
+547@ Todos neste grupo serão excluídos da Lista sua de Amigos.
+548@ Deseja excluir o grupo da sua Lista de Amigos?
+549@ Não
+550@ Sim
+551@ Deixar Guilda
+552@ Você decidiu deixar a Guilda.
+553@ Tem certeza que deseja deixar esta Guilda?
+559@ Não
+560@ Sim
+561@ Expulsar Membro da Guilda
+562@ Você decidiu expulsar o membro da guilda
+563@ Você tem certeza que quer expulsar o membro da guilda?
+564@ Cancelar
+565@ OK
+566@ Confiar Liderança de Guilda
+567@ Decidiu confiar a liderança da guilda para este membro.
+568@ A autoridade de Líder de Guilda será confiada ao alvo.
+569@ Cancelar
+570@ OK
+571@ Editar Notas de Amigo
+572@ Editar Notas nos Amigos
+573@ Cancelar
+574@ OK
+575@ Permissão para Convidar
+576@ Permissão para Expulsar
+577@ Mudar Nome do grupo
+578@ Nome do grupo
+579@ Permissões
+580@ OK
+581@ Cancelar
+582@ Novo Nome do grupo
+583@ OK
+584@ Pérola Abençoada expirou.
+585@ Pérola Abençoada expirou.
+586@ Pérola Abençoada expirou; o item desaparecerá.
+589@ Fechar
+590@ Receber
+591@ Receber Tudo
+612@ Cancelar
+594@ OK
+595@ Não mais pedir
+596@ Guia da Loja de Itens
+597@ Por favor, permaneça em um lugar seguro ao usar a Loja de Itens.
+598@ Senão, o seu personagem pode ser atacado
+599@ enquanto utiliza a Loja de Item.
+600@ Cancelar
+601@ OK
+602@ KIT DE MUDANÇA
+603@ Cancelar
+604@ Mudar Estilo
+605@ 2,43:5
+606@ KIT DE MUDANÇA
+607@ OK
+608@ Guia para aumentar nível
+609@ FOR, INT and DES são distribuídas de acordo com seu objetivo de evolução
+376@ Adicionar Amigo
+2025@ Ver Equipamento
+1885@ Convite da Guilda
+377@ Invite Party
+2304@ Escrever E-mail
+378@ PM
+616@ Cancelar
+617@ OK
+618@ Participar da Conversa
+619@ Cancelar
+620@ OK
+621@ Insira a senha do Canal de Chat Pessoal
+622@ Canal
+623@ Guilda
+624@ Gritar
+625@ Megafone
+626@ Geral
+627@ Grupo
+628@ Negociação
+629@ PM
+630@ Criação de Item
+631@ Material Necessário
+632@ Criação de Item
+633@ Criação de Item
+634@ Material Necessário
+635@ Criação de Item
+636@ Criação de Item
+637@ Material Necessário
+638@ Criação de Item
+639@ OK
+640@ Punição de Morte
+641@ Seu personagem respondeu uma penalidade de morte.
+642@ Ela será retirada com o ganho de pontos de experiência.
+643@ Não
+644@ Sim
+645@ Derrubar Item
+646@ Itens de Alto Valor. Por favor pense com cuidado.
+647@ Tem certeza que deseja derrubar este item valioso?
+648@ OK
+649@ Item periódico esgotou.
+650@ Seu item periódico esgotou.
+651@ O seguinte item desaparecerá.
+654@ [Entrar no Mundo/Calabouço]
+655@ [Cancelar]
+656@ 2,15:10
+657@ Selecionar Mundo/Calabouço
+658@ TELEPORTE
+2099@ Solo
+2075@ Grupo
+2100@ Grupo
+2101@ Solo
+2071@ Ranking
+2072@ Record de Calabouço Finalizado
+2073@ Personagem
+2074@ Record
+2070@ 2,69:10
+2078@ Record
+659@ Não
+660@ Sim
+661@ Sair do Jogo
+662@ Você decidiu sair do jogo.
+663@ Tem certeza que deseja sair do jogo?
+2616@ Fechar
+2620@ Equipar no máximo
+2617@ Conceder Opção
+2615@ Item
+263@ Material
+264@ /   10
+265@ Custo
+266@ Chance Sucesso
+267@ Alz
+268@ %
+269@ Opção de Scroll Fixa
+270@ Opção de Scroll Aleatória
+260@ Núcleo Arcano
+2614@ Conceder Opção de Item
+673@ Criar
+674@ Cancelar
+675@ OK
+676@ Criar grupo
+677@ Nome do grupo
+678@ Ret. Alzes
+679@ Criar/Apagar grupo
+680@ Expulsar Membro da Guilda
+681@ Procurar Item
+682@ Convite da Guilda
+683@ Editar Nota
+684@ Nome do grupo
+685@ Mudar Info.
+686@ Ret. Alzes
+687@ Criar/Apagar grupo
+688@ Expulsar Membro da Guilda
+689@ Procurar Item
+690@ Convidar Membro da Guilda
+691@ Editar Notícia
+692@ Convidar Membro da Guilda
+693@ Painel de Guilda
+694@ Editar Notícia
+695@ Criar grupo
+696@ Fechar Armazém
+697@ Mudar Nome
+698@ Desfazer Guilda
+699@ Deixar Guilda
+700@ Cancelar
+701@ OK
+702@ OK
+703@ Quant. Armazenável
+704@ Guardar Item
+705@ Quantidade á Retirar
+706@ Entregar item
+707@ Cancelar
+708@ OK
+709@ Quant. do Depósito
+710@ Cancelar
+711@ OK
+712@ Quant. de Retirada
+713@ Cancelar
+714@ OK
+715@ Aviso da Guilda
+716@ Introdução da Guilda
+717@ Site da Guilda
+718@ INFORMAÇÃO DA GUILDA
+719@ [Cancelar]
+720@ [Criar Guilda]
+721@ + Nome da Guilda deve ter 1-20 characteres
+722@ + Número Máximo de membros da Guilda: 30 ~ 150
+723@ + Número Máximo de grupos da Guilda é 16.
+724@ Apenas o Mestre da guilda e membros da guilda podem convidar
+725@ com a 'Permissão de Convidar' podem recrutar
+726@ novos membros.
+727@ Por favor, insira o nome de sua Guilda.
+728@ Informação de Criação de Guilda
+729@ (Diferente de acordo com o Nível da Guilda)
+730@ Criando Guilda
+731@ Cancelar
+732@ OK
+733@ Mudar Nome
+735@ Nome Atual
+736@ Mudar Nome
+737@ Cancelar
+738@ Mudar
+739@ Mudar Nome
+740@ Nome Atual:
+741@ Mudar Nome:
+742@ Gostaria de mudar o Nome?
+744@ 2,8:4
+747@ Área de Nível Apropriado
+748@ Membro
+749@ Missão Disponível
+750@ Teletransporte
+751@ Oficial
+752@ Instrutor
+753@ Mercador
+754@ Alquimista
+755@ Armazém
+756@ Loja do Agente
+757@ Evento
+758@ Agente da Runa
+759@ Calabouço
+252@ Missão em Progresso
+253@ Missão
+743@ GPS
+1980@ Cancelar
+1981@ OK
+1982@ Quant. 
+1983@ Compra de Item
+2791@ /
+1535@ Cancelar
+1536@ OK
+1537@ Quant. 
+1538@ Registrar Itens
+1539@ /
+1540@ Colocar a Quantidade de itens a serem registrados
+1986@ Cancelar
+1987@ OK
+1988@ Quant. 
+1989@ Venda de Item
+2034@ Preço
+2033@ Alz
+2808@ /
+760@ Cancelar
+761@ Extração de Item
+762@ Extração de Item
+1895@ Cancelar
+1896@ Aceitar
+1897@ Extrair Itens
+1104@ Cancelar
+1105@ Apagar
+1106@ Opção de Remover
+1107@ As opções abaixo serão todas removidas
+786@ 2,18:10,19:5
+787@ 2,10:10
+803@ Pet
+804@ Núcleo
+805@ Custo
+806@ Alz
+807@  - Núcleo Arcano (Altíssimo) é necessário
+808@  para treinamento de Pet. (slot)
+809@  - Treinamento de Pet tem 100% de acerto.
+810@  - Custo para o Treinamento do Pet depende
+811@  do slot que será aprimorado.
+812@  - Núcleos serão consumidos quando usados.
+813@ Nível do Pet
+814@ Nv.
+815@ Slot de Treinamento
+816@ cd
+819@ Aprimoramento de Pet em andamento
+820@ Treinamento de Pet
+823@ Slot de Pet Vazio 
+825@ NPC
+826@ NPC
+827@ Chance de Sucesso
+828@ Custo:
+829@ Runa Suprema
+830@ Runa de essência e núcleo serão consumidos.
+831@ Material
+832@ 2,61:5
+833@ Criação
+834@ Criar de novo
+835@ Criando
+2843@ Definir data de Expiração
+2822@ Meu Item
+2823@ Alterar Aparência
+2824@ Dinheiro requerido
+2825@ Alz
+2847@ [Escolher outros tipos de aprimoramentos]
+2838@ Restaurar Aparência
+2837@ Alterar Aparência
+2839@ NPC
+836@ Gostaria de juntar-me a Capella
+837@ Gostaria de juntar-me a Procyon
+838@ Deixe-me pensar a respeito.
+839@ No momento, muitos dos Lutadores de Nevareth
+840@ Ambas as Nações são similares
+841@ em números, mas caso se junte a
+842@ $4#menos Pontos de Honra$ na $4#caça$ e $4#na Guerra$
+843@ do que pessoas da outra Nação.
+844@ estão debatendo qual Nação
+845@ Quer dizer, você não tem vantagem
+846@ em juntar-se à Nação com mais gente.
+847@ você terá chance de ganhar
+848@ uma Nação com mais membros,
+849@ NPC
+850@ [Habilidade NPC]
+851@ [Missão]
+852@ 2,10:10
+853@ NPC
+854@ Aceite a Recompensa Adicional
+855@ 2,22:1,23:1,22:1,24:1,22:1,25:2
+856@ Recompensa Adicional da Missão
+857@ NPC
+858@ NPC
+859@ [Aceite a Recompensa do Calabouço]
+860@ Recompensa do Calabouço
+861@ Item
+862@ Habilidade
+863@ Normal
+864@ Por favor, escolha uma recompensa da Missão.
+865@ Não mais pedir
+866@ Não
+867@ Sim
+868@ Comprar Item
+869@ Comprar Item
+870@ Tem certeza que deseja comprar o item?
+871@ Não
+872@ Sim
+873@ Habilidades Treinadas
+874@ Você já aprendeu esta.
+875@ Comprar mesmo assim?
+876@ Você não pode usar este livro para treinar novamente.
+877@ Espada
+878@ Mágica
+879@ Aprimoramento
+880@ NPC
+881@ Mostrar somente Habilidades disponíveis
+882@ 2,10:10
+883@ NPC
+884@ 2,11:10
+885@ Sair.
+886@ NPC
+887@ Recompensas
+888@ Informação de Meta
+889@ Participar
+890@ Recompensa Recebida
+891@ Fechar
+892@ Ver meta executável
+893@ 2,58:20
+894@ NPC
+895@ 2,11:8,21:4
+896@ Habilidade NPC
+897@ Sair.
+898@ Olá?
+899@ $5#[Habilidade NPC]$ significa habilidades únicas
+900@ tais como lojas de itens ou treinamento de técnicas.
+901@ $5#[Missão]$ significa missões que você pode
+902@ receber. O progresso de uma missão sera
+903@ Deixe-me apresentar as habilidades dos NPCs.
+904@ mostrada como $5#(Início)$, $5#Em progresso)$,
+905@ $5#(Completa)$. Como posso lhe ajudar?
+906@ NPC
+907@ Cancelar
+908@ OK
+909@ Definir como padrão
+910@ Jogo
+2138@ Mostrar
+911@ Chat
+912@ Teclas presas
+913@ Macro
+914@ Efeito de Clima
+915@ Efeito Distorção
+917@ Mostrar a Jukebox(J) na tela
+918@ Sussurar Notícia
+919@ Mudo
+2508@ Ouvir o som do jogo enquanto não estava focado
+920@ Gráficos
+921@ Resolução
+922@ Taxa de atualização
+923@ Gama
+924@ Sombras
+925@ Efeito de Água
+926@ Obscurecer
+927@ Processo Gráfico
+928@ Campo de Visão
+929@ Efeito
+930@ Amostras Múltiplas
+931@ Efeitos Sonoros
+932@ BGM
+933@ Jukebox
+934@ Fonte
+935@ Som
+255@ Resolução
+936@ Coreano
+937@ Inglês/Número
+938@ Olá~ 1234567
+939@ Sentença de Teste Olá
+940@ Preferências
+941@ Definir como Padrão
+942@ Preferências
+2140@ Mostrar
+943@ Chat
+944@ Teclas presas
+945@ Macro
+946@ PM
+947@ Negociação
+948@ Grupo
+953@ Auto Ataque
+957@ PvP
+959@ Gritar
+962@ Deslizar/Teleporte para Cursor
+964@ Ponteiro do Mouse fixo ao girar câmera
+965@ Usar Atalho Expandido
+966@ Travar Atalho
+2183@ Permirir ataque básico durante o Auto-Ataque
+2030@ Permitir visualizar equipamento
+2182@ Use ESC para abrir o menu de sistema
+2519@ Recuar para o Cursor
+256@ Habilitar Atalhos Globais
+2567@ Aviso de Ajuda Ativa
+2717@ Limite Máximo de Diminuição de Zoom
+1882@ Permitir combinação de item com Shift+BotãoEsquerdo
+967@ PK forçado
+2792@ Mover lateralmente enquanto clica com o botão diteito
+968@ Mostrar animação de Técnica
+969@ Girar a câmera rotacionando através do mouse
+970@ Enviar PM ao clicar com botão direito
+971@ Opção de Personagem
+972@ Opção de Técnicas
+973@ Etc
+974@ Camera
+975@ Opções
+976@ Jogo
+2144@ Definir como padrão
+2145@ Preferências
+2184@ Jogo
+2146@ Chat
+2147@ Teclas presas
+2148@ Macro
+2152@ Nome do Jogador
+2153@ Nome do Monstro
+2154@ Nome do Npc
+2155@ Nome do Item
+2157@ HP do Personagem
+2158@ HP do Monstro
+2159@ Elmo do Personagem
+2161@ Nome da Guilda/Emblema
+2163@ Bolha de Diálogo
+2164@ Interface de Combo no Topo
+2166@ Título
+198@ Habilitar atalho no Minimapa
+1890@ Exibir Ajuda da Ferramenta de dica de item
+2760@ Janela de UI Fixa
+2175@ Mostrar
+257@ Ajuste de Tamanho UI
+259@ Ajuste de Interface
+2180@ Mostrar
+979@ Definir como padrão
+2141@ Mostrar
+980@ Preferências
+981@ Jogo
+982@ Teclas presas
+983@ Macro
+984@ Receber Alzes
+985@ Correção do plano de fundo do chat
+986@ Canal
+987@ Mudar tipo de chat com Ctrl + Tab
+2849@ Não é possivel ver mensagens on/offline 
+988@ Ganhar EXP
+989@ Guilda
+990@ Jogar Dados
+991@ Gritar
+2205@ Clicar no nome do personagem e copiar p/ chat.
+992@ Normal
+993@ Grupo
+994@ Mensagem do sistema
+995@ Correção do sistema de janela de Chat
+996@ Negociar
+2759@ Ver Mensagem de Dica
+997@ PM
+1979@ Ignorar Sussurro de Inimigos
+998@ Mensagem de chat
+999@ Canal de chat
+1000@ Mensagem de sistema
+1001@ Opções de chat
+1002@ Transparência
+1003@ Nome do Canal
+1004@ Senha
+1005@ Janela de Chat
+1006@ Janela do sistema
+2850@ Janela de Chat
+2851@ Linha de Chat
+2852@ Janela do sistema
+1007@ Chat
+1008@ Definir como padrão
+2142@ Mostrar
+1009@ Preferências
+1010@ Jogo
+1011@ Chat
+1012@ Macro
+1013@ 2, 64:1,65:10,64:1,65:10,64:1,65:20,64:1,65:15,64:1,65:10,64:1,65:10,64:1,65:10,64:1,65:15,64:1,65:15,64:1,65:10
+1014@ Teclas presas
+1015@ Destravar teclas de atalho existentes com a Barra de Espaço
+1016@ As teclas de atalho existentes foram sobreescritas
+1017@ Teclas presas
+1018@ Definir como padrão
+2143@ Mostrar
+1019@ Preferencias
+1020@ Jogo
+1021@ Chat
+1022@ Teclas presas
+1023@ Definir Macro
+1024@ Desligar Tecla de Atalho com o botão BackSpace
+1025@ Mudar a tecla de atalho de Macro nas Teclas Presas
+1026@ Teclas de atalho
+1027@ Texto
+1028@ Macro
+1029@ OPÇÕES
+1030@ Cancelar
+1031@ OK
+1032@ Itens Comuns
+1033@ Coleta Livre
+1034@ Alternada
+1035@ Somente para Líder
+1036@ Itens presos à conta
+1037@ Jogar o dado
+1038@ Ajuste Imediato
+1039@ OPÇÃO DE GRUPO
+1040@ Cancelar
+1041@ OK
+1042@ Usar Cartão de Renomeção de Pet
+1043@ Usar Cartão de Renomeção de Pet para mudar o nome do Pet
+1044@ Nome Atual
+1045@ Novo Nome
+1046@ OK
+1047@ Penalidade de PK
+1048@ Você não pode falar com os NPCs e usar Portais de Teletransporte
+1049@ Cancelar
+1050@ OK
+1051@ Revestir Moto Astral
+1052@ Revestir Moto Astral usando Kit.
+1053@ Mude a cor de sua Moto Astral
+1054@ utilizando 1 Kit de Revestimento de Moto Astral
+1055@ Gostaria de continuar?
+1944@ Cancelar
+1945@ Reset
+1946@ Resetar Status
+1947@ O status do personagem serão alteradas como abaixo
+1948@ Str
+1949@ Int
+1950@ Dex
+1951@ Pontos
+1056@ Conectando...
+1057@ Conectando...
+1058@ Carregando...
+1059@ Aguarde Teletransporte
+1060@ Comprar
+1061@ Fechar
+1062@ Iniciar
+1063@ Loja Pessoal
+1064@ Iniciar
+1065@ Mudar
+1066@ Fechar
+1067@ Atualização
+2087@ Loja Pessoal Premium
+1068@ Venda
+1069@ Venda
+1070@ LOJA PESSOAL
+1071@ OK
+1072@ Cancelar
+1073@ Nome do Personagem
+1074@ Não
+1075@ Sim
+1076@ Abandonar grupo
+1077@ Você decidiu sair do grupo.
+1078@ Tem certeza que deseja sair do grupo?
+1079@ Cancelar
+1080@ OK
+1081@ Expulsar Membro
+1082@ Você decidiu expulsar o membro do grupo.
+1083@ Tem certeza que deseja expulsar o membro do grupo?
+1095@ Desafio
+2312@ Sair
+1096@ Penalidade:
+1097@ CALABOUÇO
+1098@ Cancelar a entrada no Calabouço
+1099@ Você desistiu antes de entrar no calabouço.
+1100@ Você decidiu retornar à entrada do Calabouço.
+1101@ Gostaria de continuar?
+1102@ Cancelar
+1103@ OK
+2518@ OK
+1108@ Calabouço acabou
+1109@ Penalidade de Missão
+1110@ CALABOUÇO
+2517@ Jogar o dado
+2516@ OK
+1112@ Calabouço de Missão Completo!
+1113@ Calabouço
+1114@ OK
+1115@ Itens Registrados
+1116@ Quant. 
+1117@ Cancelar
+1118@ OK
+1119@ Usar Cartão de Renomeação
+1120@ Mude o nome de seu personagem usando o Cartão de Renomeação.
+1121@ Nome Atual
+1122@ Novo Nome
+2874@ Cancelar
+2875@ OK
+1123@ Solicitar grupo
+1124@ Sussurrar
+1125@ Cancelar
+1126@ Registrar
+1127@ Abrir Recrutamento
+1128@ Mensagem de recrutamento
+1129@ Membro
+1130@ Não
+1131@ Sim
+1943@ Não mais pedir
+1132@ Vender Item
+1135@ Não
+1136@ Sim
+1137@ Não mais pedir
+1138@ Vender Item
+1139@ Este item é valioso. Você tem certeza que deseja vende-lo?
+1141@ Não
+1142@ Sim
+1143@ Não mais pedir
+1144@ Comprar Item
+1145@ Você está comprando o item.
+1146@ Tem certeza que deseja comprar o item?
+1147@ Não
+1148@ Sim
+1149@ Não mais pedir
+1150@ Comprar Item
+1151@ Preco:
+1152@ Não
+1153@ Sim
+1154@ Comprar Item
+1155@ Itens de Alto Valor. Por favor pense com cuidado.
+1156@ Cancelar
+1157@ OK
+1158@ Notícia
+1159@ Este é um aviso sobre a venda de Itens de Missão em NPCs.
+1160@ Caso venda seus Itens de Missão,
+1161@ talvez não consiga prosseguir com suas missões.
+1162@ Gostaria de continuar?
+1163@ Cancelar
+1164@ Verificar
+1165@ Apagar Técnica
+1166@ Você decidiu apagar a técnica.
+1167@ Deseja apagar a técnica completamente?
+1168@ OK
+1169@ OK
+1170@ Novas Técnicas
+1171@ Aprender Novas Técnicas
+1172@ Você pode aprender novas técnicas de instrutores nas cidades.
+1173@ Não
+1174@ Sim
+1175@ Regredir Técnica
+1176@ Você decidiu regredir a técnica.
+1177@ Gostaria de reduzir o nível da técnica com a regressão?
+613@ Cancelar
+2725@ OK
+2726@ Não mais pedir
+2727@ Notícia
+2728@ Por favor utilize em uma área segura
+2731@ Twitter
+2733@ Página de Web
+2735@ Twitter
+2736@ Postar
+2793@ Post
+2737@ Facebook
+2738@ Nome
+2740@ Facebook
+2742@ Twitter
+2743@ Postar
+2744@ Página de Web
+2745@ Upload de uma screenshot para a Galeria do Usuário
+251@ Title :
+2747@ Facebook
+2748@ Página de Web
+2750@ Postar
+2751@ Twitter
+2752@ ID do Twitter
+2753@ Fechar
+1178@ OK
+1179@ Distribuição de Itens
+1180@ Quant. 
+1181@ Cancelar
+1182@ OK
+1183@ Extensão do slot Arcano
+1184@ Usar Extensor de Slot.
+1185@ Usando 1 Extensor de Núcleo adicionará mais
+1186@ 1 slot Arcano neste item.
+1187@ Entretanto, o item será preso à conta.
+1188@ Cancelar
+1189@ Cancelar
+1190@ Negociação completa
+1191@ OK
+1192@ Confirmar Negociação
+1193@ Está pronto para começar a negociação?
+1194@ Lembre-se, uma vez confirmada, você não
+1195@ pode mudar os itens ou quantidade de Alz.
+1196@ Gostaria de continuar?
+1197@ Confirmar Negociação
+1198@ Você gostaria de completar a negociação?
+1199@ Por favor verifique o nome do personagem, itens,
+1200@ e a quantia de Alzes.
+1201@ Nome parecido ao nome na lista de amigo ou de guilda
+1205@ Cancelar
+1206@ OK
+1207@ Quantidade da Negociação
+1211@ Cancelar
+1212@ OK
+1213@ Aprimoramento de Item
+1214@ Aprimorar o item usando o Otimizador de Item.
+1215@ Aprimoramento a chance de sucesso do Núcleo
+1216@ de Aprimoramento usando o Otimizador de Núcleo.
+2796@ Cancelar
+2797@ OK
+2798@ Quantia guardada
+2799@ Guardar Itens
+2800@ Comissão
+2801@ Alz
+2789@ /
+2802@ Cancelar
+2803@ OK
+2804@ Quantia a ser retirada
+2805@ Procurar Item
+2806@ Comissão
+2809@ 0
+2807@ Alz
+2790@ /
+208@ Troca de Pontos de Honra
+2212@ Troca de EXP
+2214@ Troca de WEXP
+2218@ Troca de EXP Tec
+2215@ Você não pode trocar a WExp pelo item abaixo.
+371@ WEXP Atual:
+2221@ WEXP necessária:
+2223@ Cancelar
+2222@ OK
+1217@ Cancelar
+1218@ OK
+1219@ Notícia
+1220@ Este é um aviso sobre a venda de Itens de Missão em NPCs.
+1221@ Caso coloque itens de missão em seu armazém,
+1222@ talvez não consiga prosseguir com suas missões.
+1223@ Gostaria de continuar?
+1224@ Cancelar
+1225@ OK
+1226@ Depositar
+1227@ Cancelar
+1228@ OK
+1229@ Retirar
+1910@ Cancelar
+1911@ OK
+1912@ Adicionar a Favoritos
+1913@ Nomear o link de Favorito
+1916@ Cancelar
+1917@ OK
+1918@ Apagar o link de Favorito
+1919@ Apagar o link de Favorito
+372@ Você gostaria de apagar o ícone esse link de Favorito?
+1926@ Apagar
+1925@ Renomear
+1924@ Buscar
+1920@ Cancelar
+1921@ OK
+1922@ Renomear
+1923@ Nomear o link de Favorito
+1230@ Cancelar
+1231@ OK
+1232@ Sair do Canal de Chat
+1233@ Sair do Canal de Chat
+1234@ Você gostariade sair do Canal de Chat?
+1235@ Nome do Canal:
+1236@ Cancelar
+1237@ OK
+1238@ Criar o Canal de Chat
+1239@ Nome do canal
+1240@ Senha
+1241@ Insira o nome e a senha do Canal de Chat
+1242@ OK
+1243@ Criar o Canal de Chat
+1244@ Nome do Canal:
+1245@ Senha:
+1246@ Você criou o Canal de Chat com sucesso.
+1886@ OK
+1905@ Não
+1904@ Sim
+1892@ Por favor selecione o metodo para renascer.
+1893@ Seu personagem foi derrotado.
+1908@ Usando Círculo Honorável
+1909@ Círculo Honorável
+1901@ Seu personagem foi derrotado.
+1902@ Você não possuí Talisman da Ressurreição.
+1888@ seg
+1270@ Não
+1271@ Sim
+1272@ Você gostaria de participar?
+1273@ A recompensa de evento só pode ser recebida de acordo com os
+1274@ números limitados de configuração da recompensa.
+1275@ Recompensas Restantes 
+1276@ Evento
+1277@ Não
+1278@ Sim
+1279@ Você gostaria de participar?
+1280@ A recompensa de evento só pode ser recebida de acordo com os
+1281@ números limitados de configuração da recompensa.
+1282@ Recompensas Restantes
+1283@ Evento
+2812@ Usar Item
+2813@ Alvo
+2814@ Local
+2815@ Você quer usar o Salto do Herói?
+2816@ Não
+2817@ Sim
+2356@ Enviar
+2270@ Título
+2271@ Item anexo
+2272@ Alzes Anexos
+2273@ Ler
+2274@ Fechar
+2279@ Apagar
+2281@ Próximo
+2280@ Anterior
+2278@ Responder
+2368@ Destinatário
+2267@ Title
+373@ Item Anexado
+374@ Alzes Anexos
+2372@ Ler
+2373@ Fechar
+2374@ Apagar
+2375@ Próximo
+2376@ Anterior
+2269@ Destinatário
+2378@ Title
+2379@ Item Anexado
+2380@ Alzes Anexos
+2262@ Escrever
+2819@ Fechar
+2818@ Enviar
+1284@ Ajuste Imediato
+1285@ Desistir
+1286@ Oferta
+1287@ Oferta
+1288@ Jogar o dado
+1289@ Desistir
+1290@ Jogar o dado
+1291@ Rolar o Dado
+1292@ Cancelar
+1293@ OK
+1294@ Preço de Venda do Item
+1295@ Cancelar
+1296@ OK
+1297@ Valor Automático
+1298@ Preço de Compra do Item
+1299@ Cancelar
+1300@ OK
+1301@ Mudar Preço do Item
+1302@ Você decidiu mudar o preço do item
+1303@ Tem certeza que deseja mudar o preço do item?
+1304@ Cancelar
+1305@ OK
+1306@ Fechando Loja Pessoal
+1307@ Você está fechando a sua Loja Pessoal.
+1308@ Deseja fechar a sua Loja Pessoal?
+1309@ (Quando fechar a sua Loja, os itens registrados
+1310@ na lista de venda serão movidos para o seu inventário
+1311@ Cancelar
+1312@ OK
+1313@ Parar Modo de Venda
+1314@ Está cancelando o Modo de Venda
+1315@ Deseja parar o Modo de Venda?
+1316@ 
+1317@ 
+2754@ Screenshot
+2755@ Anexar
+2756@ Fechar
+614@ Não
+652@ Sim
+392@ Comprar Item
+672@ Preço
+615@ Cancelar
+653@ OK
+664@ Comprar Item
+258@ Quant. 
+745@ Preço para Compra
+3019@ Cancelar
+3020@ OK
+3021@ Comprar Item
+3022@ Quantidade
+3023@ Preço de Compra
+1332@ Pronto
+1333@ Pronto
+2521@ Twitter
+2523@ Anexar
+2522@ Fechar
+2524@ Twit
+2525@ Screenshot
+2528@ Screenshot
+2537@ Fechar
+2536@ Postar
+2532@ Twit
+2533@ ID do Twitter
+1334@ Não
+1335@ Sim
+1336@ Esconder Mensagem
+1337@ Usar Pedra de Telepote
+1338@ Mover para o Teleporte de Recompensa de Nação
+1339@ A pedra de teleporte será usada para um país derrotado.
+1340@ quando usar teleporte recompensa de nação.
+1341@ Deseja usar teleporte de recompensa de nação?
+1342@ Tecla de atalho 1
+1343@ Tecla de atalho 2
+1344@ Sem ligação
+1345@ Sem ligação
+1346@ Tipo de Item
+1347@ Classe Recomendada
+2560@ AJUDA
+2564@ Close
+2563@ Lista
+2565@ Aviso de Ajuda Ativa
+2571@ Ajuda
+2966@ 1,80:1,51:1
+2960@ Ver mais
+1348@ Comprar
+1349@ Comprar
+1350@ 1,54:0,55:0
+1351@ 1,0:0
+1352@ Receber Alzes
+1353@ Cancelar
+1354@ Mudar
+1355@ Registrar
+1356@ 1,7:0
+1357@ 1,6:0,17:0
+1358@ Receber
+1359@ Informação
+1360@ Vezes disponíveis:
+1361@ Número:
+1362@ Opção:
+1363@ 1,13:0
+1368@ 1,0:0
+2655@ 1,6:0,17:0
+2618@ 1,13:0
+2656@ 1,72:0,17:0
+1370@ Repetir História do Capítulo
+1373@ Alzes (Pontos)
+1374@ 1,45:0
+1375@ 1,50:0
+1376@ 1,0:0
+1377@ 0
+1378@ 1
+1379@ 2
+1380@ 3
+1381@ 4
+1382@ 5
+1383@ 6
+1384@ 7
+1385@ 8
+1386@ 9
+1387@ `
+1388@ -
+1389@ =
+1390@ \
+1391@ q
+1392@ w
+1393@ e
+1394@ r
+1395@ t
+1396@ y
+1397@ u
+1398@ i
+1399@ o
+1400@ p
+1401@ a
+1402@ s
+1403@ d
+1404@ f
+1405@ g
+1406@ h
+1407@ j
+1408@ k
+1409@ l
+1410@ z
+1411@ x
+1412@ c
+1413@ v
+1414@ b
+1415@ n
+1416@ m
+1417@ [
+1418@ ]
+1419@ ;
+1420@ '
+1421@ ,
+1422@ .
+1423@ /
+1424@ Delegar Liderança
+1425@ Expulsar Membro
+1426@ Dar direito de Convite
+1427@ Retirar direito de Convite
+2961@ Conquista de Info
+2019@ Info. de equipamento
+1428@ EXP Ganho
+1429@ EXP Perdido
+1430@ Punição de Morte
+1431@ AXP
+1432@ INFORMAÇÃO DO ITEM
+1433@ Pontos de Descanso
+1434@ Cancelar
+1435@ Receber Alzes
+1436@ Confirmar Recebimento
+1437@ Aceitar pagamento pelo seu item.
+1438@ Valor
+1439@ Comissão
+1440@ Net Sales
+1441@ Usar Cupom
+1442@ Alz
+1443@ Alz
+1444@ Alz
+1445@ Cancelar
+1446@ Cancelar
+1447@ OK
+1448@ Quantidade
+1449@ Preço
+1450@ Alz
+1451@ Quantidade
+1452@ Preço
+1453@ Alz
+1961@ Mover de Canal
+1962@ Mover para um canal diferente.
+375@ Você gostaria de mover?
+1963@ Canal Atual:
+1966@ Canal Selecionado:
+1965@ Não
+1964@ Sim
+1454@ OK
+1455@ Desconectado
+1456@ Você foi desconectado do servidor.
+1457@ Relogue após clicar em 'OK'
+1458@ OK
+1459@ Não foi possível conectar-se ao servidor
+1460@ Você não conseguiu conectar-se ao servidor.
+1461@ Pressione o botão de confirmação para sair do jogo.
+1462@ OK
+1463@ Login Duplo
+1464@ Tentativa de Login Duplo na mesma Conta
+1465@ Você foi desconectado do servidor porque
+1466@ alguém tentou logar-se no jogo com a mesma ID.
+1467@ Houve um erro de comunicação com o servidor.
+1468@ Relogue após clicar em 'OK'
+1469@ OK
+1470@ Sair do Programa
+1471@ O programa está sendo fechado pois alguns arquivos estão corrompidos.
+1472@ Por favor, reinicie e verifique os arquivos do jogo.
+1473@ (Caso o erro persista, por favor, faça uma 
+1474@ reinstalação completa do jogo.)
+2309@ Desistir de Calabouço
+2310@ Desistir de Calabouço
+2311@ Deixar o campo.
+2229@ Continuar
+2224@ Pausar
+2225@ Pausar Calabouço
+1475@ OK
+1476@ OK
+1477@ Aviso de Item no Inventário Temporário
+1478@ Por favor mova seu item do inventário temporário
+1479@ O item no Inventário Temporário pode ser perdido após
+1480@ Desconectado. Por favor mova seu item para o Inventário.
+1481@ OK
+1482@ Informação de Erro
+1483@ O item não existe.
+1484@ O item não existe e será automaticamente removido.
+1485@ OK
+1486@ Informação de Erro
+1487@ O jogo será pausado alguns momentos.
+1488@ O jogo continuará em 5 segundos.
+1489@ seg
+1490@ Desconectado
+1491@ Houve um erro de comunicação com o servidor.
+1492@ Por favor, saia do jogo e relogue.
+1493@ OK
+1494@ Sair do Jogo
+1495@ Desconectado
+1496@ Você foi desconectado do servidor.
+1497@ Por favor, saia do jogo e relogue.
+1498@ Registrar Coordenadas
+1499@ Registrar suas coordenadas atuais.
+1500@ Você gostaria de registrar suas coordenadas atuais para a Pedra da Fronteira?
+1501@ Não
+1502@ Sim
+1503@ OK
+1504@ Desconectado
+1505@ Um erro foi detectado pelo sistema de proteção anti-hack.
+1506@ Sair do Programa
+1507@ Padrão de jogo incomum detectado.
+1508@ O jogo será fechado por padrão de jogo incomum.
+2294@ Não
+2295@ Sim
+2296@ Bloquear
+2297@ Bloquear o remetente.
+2298@ Não
+2299@ Sim
+2300@ Não mais pedir
+2301@ Não
+2302@ Apagar e-mail
+2289@ Não
+2290@ Sim
+2292@ Reportar
+2293@ Reportar o e-mail.
+2284@ Não
+2285@ Sim
+2286@ Ask no more
+2287@ Voltar
+2288@ Voltar o e-mail.
+554@ Não
+555@ Sim
+556@ Ask no more
+557@ Enviar
+558@ Você quer enviar a mensagem?
+60@ Destinatário
+587@ Alzes anexos
+588@ Item Anexado
+1509@ OK
+1510@ Avisar Evento
+2313@ Ver Títulos
+2314@ Títulos Adquiridos
+2315@ Você obteve o título: Recruta da Colônia
+2110@ Confirmar Troca
+2111@ Trocar um item com T-Points
+2112@ Você gostaria de trocar o item?
+2113@ Pontos Necessários:
+2114@ Item Trocado:
+2115@ Não
+2116@ Sim
+1511@ Falha ao conectar-se ao servidor do mundo.
+1512@ Houve uma falha ao conectar-se ao servidor do mundo.
+1513@ Confirme e relogue.
+1514@ OK
+1515@ Falha ao conectar-se ao servidor.
+1516@ Houve uma falha ao conectar-se ao servidor.
+1517@ Por favor, tente mais tarde.
+1518@ OK
+1519@ Falha ao conectar-se ao servidor do mundo.
+1520@ Houve uma falha ao conectar-se ao servidor do mundo.
+1521@ Por favor, tente reconectar-se.
+1522@ OK
+1523@ Remover Missão
+1524@ Deseja abandonar a missão?
+1525@ Missões abandonadas podem ser restauradas da
+1526@ lista de missões
+1528@ Cancelar
+1529@ Remover Missão
+1530@ Não
+1531@ Sim
+1532@ Abandonar Missão
+1533@ Deseja remover a missão?
+1534@ Esta missão será removida da sua lista de missões em 30 segundos.
+2977@ Abandonar Missão
+2978@ Gostaria de abandonar a missão?
+2981@ Cancelar
+2982@ Abandonar Missão
+1541@ Login Duplo
+1542@ A ID já está em uso.
+1543@ A ID foi conectada ao servidor.
+1544@ Gostaria de fechar a sessão e reconectar-se?
+1545@ Não
+1546@ Sim
+1547@ Sair do Jogo em Calabouço
+1548@ Você quer finalizar a conexão no Calabouço?
+1549@ Se você sair do jogo enquanto estiver em um calabouço, isso fará
+1550@ O Calabouço será fechado automaticamente. Se você desconectar sem
+1551@ ao completar o calabouço, uma penaslidade pode ser aplicada, caso seja nescessário.
+1552@ Não
+1553@ Sim
+1554@ Sair do Jogo em Calabouço
+1555@ Você quer finalizar a conexão no Calabouço?
+1556@ Caso saia do jogo enquanto estiver em um calabouço,
+1557@ O Calabouço será fechado automaticamente. Se você desconectar sem
+1558@ terminar o calabouço, uma punição do calabouço poderá ser aplicada.
+1559@ Não
+1560@ Sim
+1561@ Entrada de Calabouço
+1562@ Cancelando Busca de grupo
+1563@ Achar membro de grupo será cancelado automaticamente quando
+1564@ você entrar no calabouço. Você deseja entrar?
+1565@ Não
+1566@ Sim
+1567@ Sair do Jogo em Calabouço
+1568@ Você quer finalizar a conexão no Calabouço?
+1569@ Você sairá do calabouço automaticamente para entrar
+1570@ Calabouço será fechado. Se você se desconectar sem completar o calabouço,
+1571@ Penalidade de Calabouço pode ser aplicada.
+1572@ Não
+1573@ Sim
+1574@ Selecionar personagem
+1575@ Você quer ir para a janela de seleção de personagem
+1576@ Deseja desconectar?
+1577@ Sim
+1578@ Não
+1579@ Selecionar Servidor
+1580@ Mover para a tela de seleção de servidor.
+1581@ Você quer ir para a janela de seleção de Servidor
+1582@ Não
+1583@ Sim
+1584@ OK
+1585@ Notícia
+1586@ Isto é um aviso
+1587@ OK
+1588@ Nível de Estilo de Luta aumentado
+1589@ Recompensa do Estilo de Luta
+1590@ Sub-Senha
+1591@ Q.
+1592@ A.
+1593@ Por favor, escreva a resposta de acordo com a pergunta.
+1594@ Configurar a Pergunta e a Resposta
+1595@ Cancelar
+1596@ OK
+2539@ Twitter
+2540@ ID
+2541@ Senha
+2542@ Entrar no Twitter
+2544@ Cancel
+2545@ OK
+2547@ Twitter
+2548@ Você quer se desconectar do Twitter?
+2552@ Não
+2553@ Sim
+1597@ Atualizar
+1598@ O jogo fechará para receber a Atualização.
+1599@ Por favor, reinicie o jogo para receber a Atualização.
+1600@ Por favor, Reinicie o jogo.
+1601@ Marcar Símbolo Inimigo
+1602@ Marcar grupo Aliado
+1603@ Base Aliada
+1604@ Base Inimiga
+1605@ Ponto Aliado
+1606@ Ponto Inimigo
+1607@ Ponto Neutro
+1608@ Líder do Grupo
+1609@ Teleporte/Ressurreição
+1610@ Ponto de Batalha
+1611@ Líder do grupo aliado
+1612@ Membro
+1613@ GPS
+1614@ QG Ocupado
+1615@ Fortaleza Ocupada
+1616@ Inimigo Destruído
+1617@ Torre Arcana Destruída
+1618@ Guardião do Legado Destruído
+1619@ Torres Arcanas Remanescentes
+1620@ Despesas de guerra
+1621@ Registro Pessoal
+1622@ Recompensa
+1623@ Despesas pessoais
+1624@ Equipamento Total
+1625@ Bônus de Vitória
+1626@ Ranking
+1627@ Recompensa de Ranking
+1628@ Alz
+1629@ Alz
+1630@ Alz
+1631@ Alz
+1632@ Alz
+1633@ Ok
+1634@ Ok
+1635@ Dano Dado
+1636@ Dano Recebido
+1637@ Pontos de Cura
+1638@ Construção
+1639@ AXP
+1640@ AXP
+1641@ Pontuação pessoal
+1642@ Ganho
+1643@ Recompensa
+1644@ Recompensa total em Alz
+1645@ Mortes/Derrotas
+1646@ NOTÍCIAS
+1647@ Ok
+1648@ Ok
+2207@ Não
+2206@ Sim
+2208@ Troca de WEXP
+2209@ Você gostaria de trocar WEXP ?
+2210@ Uma vez trocada a WEXP, a negociação não pode ser desfeita.
+1649@ Criar Personagem no Servidor Teste
+1650@ Gostaria de criar um personagem no Servidor Teste?
+1651@ Lembre-se, cada personagem no servidor teste pode ser refeito
+1652@ a qualquer momento para testes do jogo.
+1653@ Não
+1654@ Sim
+1954@ 2, 67:20
+1952@ Mover de Canal
+1655@ Punição de Morte
+1656@ HP
+1657@ MP
+1955@ Selecionar Canal
+2068@ Selecionar Canal
+1658@ Selecionar personagem
+2069@ Selecionar Personagem
+1659@ Cancelar
+1660@ Sair do Jogo
+1661@ Mensagem dos GMs
+1662@ Opções
+1663@ Selecionar servidor
+1664@ MENU
+1665@ Desconectado
+1666@ Você será desconectado do servidor.
+1667@ Você será desconectado do servidor em 5 segundos.
+1668@ seg
+1669@ Desconectado
+1670@ Você será desconectado do servidor
+1671@ Devido a falta de ganhos pessoais no ranking no status
+1672@ seg
+1673@ Você será desconectado automaticamente do servidor
+1674@ Desconectado
+1675@ Você está desconectando.
+1676@ Você será desconectado em 5 seg.
+1677@ seg
+1678@ Chat
+1679@ Apagar
+1680@ Apagar Tudo
+1681@ Editar Mensagem
+1682@ Esconder
+1683@ Mini Mapa
+1684@ Ok
+1685@ Cancelar
+1686@ Editar campo de aviso
+1687@ Criar
+1688@ Cancelar
+1689@ Criação de Guilda
+1690@ Criar uma guilda.
+1691@ Um total de $3#10,000,000$Alz será usado na criação da guilda.
+1692@ Terminar Guilda
+1693@ Cancelar
+1694@ Terminar Guilda
+1695@ A guilda será terminada.
+1696@ Para criar uma Guilda,
+1697@ Alz serão gastos.
+1698@ Cancelar
+1699@ Tutup
+1700@ Abrir Loja de Itens
+1701@ Juntar-se
+1702@ Não
+1703@ Ok
+1704@ Sim
+1705@ Receber WEXP 150%
+1706@ Não
+1707@ Sim
+1708@ Ask no more
+1709@ Apagar Correio
+1710@ A mensagem será apagada.
+1711@ Realmente deseja apagar a mensagem?
+1712@ (e-mail deletado não será recuperado)
+1713@ Não
+1714@ Sim
+1715@ Apagar Correio
+1716@ Há itens ou Alzes não recebidos
+1717@ Realmente deseja apagar a mensagem?
+1718@ (e-mail deletado não será recuperado)
+1719@ OK
+1720@ Organizar caixa de entrada
+1721@ Sua caixa de entrada está cheia.
+1722@ Mensagens não puderam ser recebidas pois sua Caixa de Mensagem está cheia.
+1723@ Por favor, esvazie sua Caixa de Correio.
+1724@ Não
+1725@ Sim
+1726@ HABILIDADE ALMA
+1727@ Você gostaria de aprender Habilidade de Alma?
+1728@ Custo:
+1729@ Habilidade:
+1730@ Habilidade de Alma:
+1731@ HABILIDADE ALMA
+1732@ Custo do Aumento:
+1733@ Aumento de Nivel:
+1734@ HABILIDADE ALMA
+1735@ Item de Habilidade e o valor gasto não podem ser
+1736@ Você gostaria de apagar a Habilidade de Alma?
+1737@ Apagando Habilidade de Alma.
+1738@ devolvidos após apagados.
+1739@ Verificação de Segurança Cabal
+1740@ POR FAVOR, INSIRA O CÓDIGO
+1741@ DE VERIFICAÇÃO POR IMAGEM
+1742@ OK
+1743@ Perguntar depois
+1744@ Ajustar agora
+1745@ Ask no more
+1746@ Alerta de Segurança
+1747@ Guia da Sub Senha
+1748@ Serviço Premium/Pérola (Não utilizado)
+1749@ Benefícios
+1750@ Atalho destravado
+1751@ Atalho travado
+2196@ Menu CABAL
+2197@ Item Shop
+2041@ CABAL Security Check
+1753@ Estabelecer Senha
+2042@ OK
+1756@ Atualizar
+1757@ Salvar Log de Chat
+1758@ Salvar Log de Chat
+1759@ Salvar Log de Chat
+1760@ Salvar Log de Chat
+1761@ Salvar Log de Chat
+1762@ Salvar Log de Chat
+1763@ Salvar Log de Chat
+1764@ Salvar Log de Chat
+1765@ Sub-Senha
+1766@ Sub-Senha
+1767@ GPS
+1768@ GPS
+1769@ Lista de membros
+1770@ Shop
+2872@ Controle Remoto Item Shop
+788@ Loja de Item
+789@ Personagem
+790@ Ajuda
+791@ Iventário
+792@ Missão
+1771@ Aprimoramento de Item
+1772@ No momento, vendendo itens na Loja Pessoal.
+1773@ Você apenas pode usar o item quando o seu Grau de Classe for 11
+1774@ Apenas para Usuários Premium .\O serviço Premium está disponível na Loja de Itens.
+1775@ Apenas para Usuários Premium .\O serviço Premium está disponível na Loja de Itens.
+1776@ Apenas para Usuários Premium .\O serviço Premium está disponível na Loja de Itens.
+1777@ Este Armazém extra é disponibilizado com uma Pérola de Bénção. \Você pode usar este armazém apenas quando você têm uma Pérola de Expansão de Armazém.
+1778@ Lista Temporária
+138@ Este armazém extra está disponível somente com uma Pérola Abençoada. \Você só pode usar este armazém quando tiver uma Pérola Abençoada de Expansão do Armazém.
+139@ Este armazém extra está disponível somente com uma Pérola Abençoada. \Você só pode usar este armazém quando tiver uma Pérola Abençoada de Expansão do Armazém.
+140@ Este armazém extra está disponível somente com uma Pérola Abençoada. \Você só pode usar este armazém quando tiver uma Pérola Abençoada de Expansão do Armazém.
+141@ Este armazém extra está disponível somente com uma Pérola Abençoada. \Você só pode usar este armazém quando tiver uma Pérola Abençoada de Expansão do Armazém.
+1779@ Dep.
+1780@ Sub-Senha
+1781@ Sub-Senha
+1782@ Ret.
+142@ Fechar Armazém Expandido
+143@ Abrir Armazém Expandido
+1783@ Ordenar por Nome do grupo
+1784@ Mostrar Online apenas
+1785@ Ordenar por Nome do grupo
+1786@ Mostrar Online apenas
+2873@ Destruir Item
+2520@ Travar equipamento
+1787@ Cabeça
+1788@ Corpo
+1789@ Mãos
+1790@ Pés
+1791@ Arma
+1792@ Arma
+1793@ Dragona
+1794@ Pescoço
+1795@ Dedo
+1796@ Dedo
+1797@ Moto / Prancha
+1798@ Orelhas
+1799@ Orelhas
+1800@ Pulso
+1801@ Pulso
+1802@ Dedo
+1803@ Dedo
+1804@ Cintura
+765@ Notícia
+766@ Mensagem de Grupo
+767@ Mensagem Normal
+768@ Fundo
+769@ Resposta
+2644@ Ver somente missões deletadas
+2652@ Exibir Somente Missões Disponíveis
+770@ Aviso
+771@ Mensagem de Grupo
+772@ Mensagem Normal
+773@ Fundo
+774@ Deletar
+2848@ Refrescar
+1805@ Fechar Canal
+1806@ Fazer/Participar de Canal
+1807@ Registro Automático
+1808@ Registro Automático
+1809@ Registro Automático
+1810@ Registro Automático
+1811@ Registro Automático
+1812@ Registro Automático
+1813@ Registro Automático
+1814@ Auto Registrar
+1815@ Este serviço é somente para usuários Premium.
+1816@ Este serviço é somente para usuários Premium.
+1817@ Este serviço é somente para usuários Premium.
+1818@ Este serviço é somente para usuários Premium.
+1819@ Este serviço é somente para usuários Premium.
+1820@ Este serviço é somente para usuários Premium.
+1821@ Este serviço é somente para usuários Premium.
+1822@ Este serviço é somente para usuários Premium.
+1823@ Este serviço é somente para usuários Premium.
+1824@ Este serviço é somente para usuários Premium.
+1825@ Este serviço é somente para usuários Premium.
+1826@ Este serviço é somente para usuários Premium.
+1827@ Este serviço é somente para usuários Premium.
+1828@ Este serviço é somente para usuários Premium.
+1829@ Este serviço é somente para usuários Premium.
+1830@ Este serviço é somente para usuários Premium.
+1831@ Este serviço é somente para usuários Premium.
+1832@ Este serviço é somente para usuários Premium.
+1833@ Este serviço é somente para usuários Premium.
+1834@ Este serviço é somente para usuários Premium.
+1835@ Este serviço é somente para usuários Premium.
+1836@ Este serviço é somente para usuários Premium.
+1837@ Este serviço é somente para usuários Premium.
+1838@ Este serviço é somente para usuários Premium.
+1839@ Este serviço é somente para usuários Premium.
+1840@ Este serviço é somente para usuários Premium.
+1841@ Este serviço é somente para usuários Premium.
+1842@ Este serviço é somente para usuários Premium.
+1843@ Este serviço é somente para usuários Premium.
+1844@ Este serviço é somente para usuários Premium.
+1845@ Este serviço é somente para usuários Premium.
+1846@ Este serviço é somente para usuários Premium.
+1847@ Este serviço é somente para usuários Premium.
+1848@ Este serviço é somente para usuários Premium.
+1849@ Este serviço é somente para usuários Premium.
+1850@ Este serviço é somente para usuários Premium.
+1851@ Este serviço é somente para usuários Premium.
+1852@ Este serviço é somente para usuários Premium.
+1853@ Este serviço é somente para usuários Premium.
+1854@ Este serviço é somente para usuários Premium.
+1855@ Este serviço é somente para usuários Premium.
+1856@ Este serviço é somente para usuários Premium.
+1857@ Este serviço é somente para usuários Premium.
+1858@ Este serviço é somente para usuários Premium.
+1859@ Este serviço é somente para usuários Premium.
+1860@ Este serviço é somente para usuários Premium.
+1861@ Este serviço é somente para usuários Premium.
+1862@ Este serviço é somente para usuários Premium.
+1863@ Este serviço é somente para usuários Premium.
+1864@ Este serviço é somente para usuários Premium.
+1865@ Este serviço é somente para usuários Premium.
+1866@ Este serviço é somente para usuários Premium.
+1867@ Este serviço é somente para usuários Premium.
+1868@ Este serviço é somente para usuários Premium.
+1869@ Este serviço é somente para usuários Premium.
+1870@ Este serviço é somente para usuários Premium.
+1871@ Este serviço é somente para usuários Premium.
+1872@ Este serviço é somente para usuários Premium.
+1873@ Este serviço é somente para usuários Premium.
+1874@ Este serviço é somente para usuários Premium.
+1875@ Este serviço é somente para usuários Premium.
+1876@ Este serviço é somente para usuários Premium.
+1877@ Este serviço é somente para usuários Premium.
+2282@ Aceitar Alzes
+2283@ Aceitar Item
+2757@ Cancel attach
+2555@ Cancel attach
+2732@ Cancel attach
+2734@ Anexar screenshot
+2739@ Cancel attach
+2741@ Anexar screenshot
+2746@ Cancel attach
+2749@ Anexar screenshot
+2401@ Bloquear
+2402@ Deletar
+2403@ Responder
+2404@ Reportar
+2405@ Voltar
+2406@ Hapus
+2554@ Cancel attach
+2546@ Sair
+1878@ Ret.
+1879@ Dep.
+1880@ Histórico de Uso
+1999@ Cabeça
+2000@ Corpo
+2001@ Mãos
+2002@ Pés
+2003@ Arma
+2004@ Arma
+2005@ Dragona
+2006@ Amuleto
+2007@ Anél
+2008@ Anél
+2009@ Moto/Prancha
+2010@ Brincos
+2011@ Brincos
+2012@ Bracelete
+2013@ Bracelete
+2014@ Anél
+2015@ Anél
+2016@ Cinto
